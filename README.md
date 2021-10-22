@@ -1,1 +1,1 @@
-# -epic-stage-archery-
+# project-c23-template
